@@ -1,2 +1,4 @@
 Hello world!
-My name is Odunola
+My name is Odunola.
+
+I have been able to write my first git command and push it to GitHub.
